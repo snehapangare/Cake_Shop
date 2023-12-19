@@ -1,0 +1,9 @@
+200,vanila,s,13,250.00
+201,Mava,s,45,400.00
+202,Berry,m,39,450.00
+203,Red Forest,L,1,550.00204,Chocalate,10,5,500.00
+203,Red forest,l,1,500.00
+204,chocalate,m,2,600.00205,black forest,m,9,300.00
+204,chocalate,m,1,400.00
+205,Rasmalai,m,6,600.00
+206,Mix Fruit Cake,m,8,400.00

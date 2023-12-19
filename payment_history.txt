@@ -1,0 +1,8 @@
+priya,Cash,590.0
+priya,Online or Card,0.0
+priya,Online or Card,3009.0
+laximan,Cash,0.0
+laximan,Online or Card,1593.0
+maya,Online or Card,1180.0
+maya,Online or Card,5428.0
+vinayk,Cash,590.0
